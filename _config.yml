@@ -1,0 +1,28 @@
+name: Seidlitz Consulting
+favicon: null
+layout_spectrum: 0.982266248902306
+typography_spectrum: 0.9051721154246479
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3836256212089211
+  lightness: 0.16286590811796486
+  saturation: 0.9939558650366962
+  rhythmicContrast: 0.35233790916390717
+purpose: []
