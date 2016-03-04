@@ -2,12 +2,13 @@ name: Seidlitz Consulting
 favicon: null
 layout_spectrum: 0.982266248902306
 typography_spectrum: 0.9051721154246479
+title: Seidlitz Consulting
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74681180-1
   facebook: null
   twitter: null
 opengraph:
