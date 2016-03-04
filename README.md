@@ -1,0 +1,1 @@
+# seidlitz-consulting
