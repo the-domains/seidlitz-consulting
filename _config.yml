@@ -1,41 +1,41 @@
-name: Seidlitz
-favicon: null
-layout_spectrum: 0.50133
-typography_spectrum: 0.71467
 title: Seidlitz Consulting
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74681180-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 1
+  brandStrength: 1
+  rhythmicContrast: 0.2234043
   brandColors:
     - '#ffffff'
     - '#d19f7a'
     - '#d9af90'
     - '#e4c6b0'
     - '#f6ebe3'
-  brandStrength: 1
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.2234043
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-74681180-1
+  facebook: null
+favicon: null
+name: Seidlitz
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.71467
+layout_spectrum: 0.5361702
